@@ -7,6 +7,10 @@ namespace ConsoleApp1
 {
     interface Interface1
     {
-        void asd(int n);
+
+        void asd();
+        void asd();
+
+
     }
 }
