@@ -8,5 +8,11 @@ namespace ConsoleApp1
     interface Interface1
     {
         void asd();
+        void asd();
+        void asd();
+        void asd();
+        void asd();
+        void asd();
+        void asd();
     }
 }
