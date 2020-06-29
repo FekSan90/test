@@ -7,6 +7,16 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("asdaaaa!");
+            Console.WriteLine("asdaaaa!");
+            Console.WriteLine("asdaaaa!");
+            Console.WriteLine("asdaaaa!");
+            Console.WriteLine("asdaaaa!");
+            Console.WriteLine("asdaaddaa!");
+            Console.WriteLine("asdaaddaa!");
+            Console.WriteLine("asdaaddaa!");
+            Console.WriteLine("asdaaddaa!");
+            Console.WriteLine("asdaaddaa!");
+            Console.WriteLine("asdaaddaa!");
         }
     }
 }
