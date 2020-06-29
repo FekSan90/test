@@ -9,10 +9,5 @@ namespace ConsoleApp1
     {
         void asd();
         void asd();
-        void asd();
-        void asd();
-        void asd();
-        void asd();
-        void asd();
     }
 }
